@@ -1,0 +1,24 @@
+.button1{
+    color: red;
+    background: green;
+    height: 100px;
+    width: 100px;
+
+}
+
+
+.button2{
+    color: red;
+    background: green;
+    height: 100px;
+    width: 100px;
+    background: url(./Group\ 8.jpg);
+}
+
+
+
+
+/* .button2{
+    background: yellow;
+
+} */
